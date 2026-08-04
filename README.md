@@ -1,0 +1,1 @@
+# yuno-app-icon
